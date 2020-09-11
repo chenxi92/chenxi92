@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Chen xi's github stats](https://github-readme-stats.vercel.app/api?username=chenxi141017&show_icons=true)
+
+
 <!--
 **chenxi141017/chenxi141017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
