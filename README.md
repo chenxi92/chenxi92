@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![Chen xi's github stats](https://github-readme-stats.vercel.app/api?username=chenxi141017&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chenxi141017&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxi141017&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chenxi141017/chenxi141017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
