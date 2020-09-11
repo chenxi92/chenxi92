@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Chen xi's github stats](https://github-readme-stats.vercel.app/api?username=chenxi141017&show_icons=true)
+![Chen xi's github stats](https://github-readme-stats.vercel.app/api?username=chenxi141017&show_icons=true&theme=radical)
 
 
 <!--
