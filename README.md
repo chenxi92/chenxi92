@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning iOS.
 - 📫 Contact me on Twitter [chenxi141017](https://twitter.com/chenxi141017).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxi141017&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxi92&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=chenxi141017&show_icons=true&theme=radical)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=chenxi92&show_icons=true&theme=radical)
 
 <!--
-**chenxi141017/chenxi141017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chenxi92/chenxi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
