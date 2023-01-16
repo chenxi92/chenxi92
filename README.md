@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working in BeiJing.
 - 🌱 I’m currently learning iOS.
-- 📫 Contact me on Twitter [chenxi141017](https://twitter.com/chenxi141017).
+- 📫 Contact me on Twitter [peakcx92](https://twitter.com/peakcx92).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxi92&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
