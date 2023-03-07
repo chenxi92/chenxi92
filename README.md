@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxi92&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=chenxi92&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=chenxi92&show_icons=true&theme=radical)
 
 <!--
 **chenxi92/chenxi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
